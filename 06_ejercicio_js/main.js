@@ -1,7 +1,7 @@
 // EJERCICIO 6
 
 
-//banner qeu se cierra y productos que se añaden al carro de la compra
+//banner que se cierra y productos que se añaden al carro de la compra
 
 //pinchar en banner
 ///////////////////////////////////////////////////////////////
